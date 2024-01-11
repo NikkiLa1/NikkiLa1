@@ -12,6 +12,14 @@
 - <b>[Exploring Drug Overdose Deaths in Connecticut](https://github.com/joshmadakor1/Algorithms-Practice)</b>
   - Brief Overview: This project delves into Connecticut's alarming drug overdose crisis. Through visualizations and exploratory analysis of a Kaggle dataset, it identifies key demographics affected and highlights heroin, opioids, and fentanyl as predominant contributors to drug-related fatalities. 
 
+<h2>💻 Skills</h2>
+
+- <b>Languages:</b> Java, Python, SQL, JavaScript, R, MATLAB
+- Developer Tools: RStudio, JupyterHub, Google Cloud Platform, Eclipse
+- Libraries: Pandas, Knitr, RMarkdown, NumPy, Matplotlib, Ggplot2, Dplyr, Tidyr, Shiny, Sklearn
+- Software Proficiency: Microsoft Office, Tableau
+
+
 <h2>📃 Certifications</h2>
 
 - [Google Data Analytics](https://coursera.org/share/1f1a812034af7c6aa2ee9e14d497e532)
