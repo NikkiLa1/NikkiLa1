@@ -3,9 +3,9 @@
 
 <h2>👩🏻‍💻 Data Science Projects:</h2>
 
-- <b>[Diabetes Analysis](https://github.com/joshmadakor1/Algorithms-Practice)</b>
+- <b>[Diabetes Analysis](https://github.com/NikkiLa1/Diabetes-Analysis)</b>
   - Brief Overview: This project involves a comprehensive comparison of diverse machine learning algorithms for the classification of diabetes.
-- <b>[Breast Cancer Analysis](https://github.com/joshmadakor1/Algorithms-Practice)</b>
+- <b>[Breast Cancer Analysis](https://github.com/NikkiLa1/Breast-Cancer-Analysis)</b>
   - Brief Overview: This project encompasses an in-depth comparison of a variety of machine learning algorithms designed for the classification of breast cancer.
 - <b>[COVID-19 Impacts on Delhi Students](https://github.com/joshmadakor1/Algorithms-Practice)</b>
   - Brief Overview: This study explores the consequences of the COVID-19 pandemic on students within the Delhi National Capital Region. Employing thorough data analysis and visualization, the research reveals effects on mental health, education, and daily routines, illuminating changes in sleep patterns, disruptions in fitness regimens, and shifts in social media habits.
