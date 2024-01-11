@@ -15,10 +15,9 @@
 <h2>💻 Skills</h2>
 
 - <b>Languages:</b> Java, Python, SQL, JavaScript, R, MATLAB
-- Developer Tools: RStudio, JupyterHub, Google Cloud Platform, Eclipse
-- Libraries: Pandas, Knitr, RMarkdown, NumPy, Matplotlib, Ggplot2, Dplyr, Tidyr, Shiny, Sklearn
-- Software Proficiency: Microsoft Office, Tableau
-
+- <b>Developer Tools:</b> RStudio, JupyterHub, Google Cloud Platform, Eclipse
+- <b>Libraries:</b> Pandas, Knitr, RMarkdown, NumPy, Matplotlib, Ggplot2, Dplyr, Tidyr, Shiny, Sklearn
+- <b>Software Proficiency:</b> Microsoft Office, Tableau
 
 <h2>📃 Certifications</h2>
 
