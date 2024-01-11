@@ -1,23 +1,16 @@
 <h1>Hi, I'm Nikki! <br/><a href="https://www.linkedin.com/in/nikki-la/">Honors Data Science Student @ ASU</a></h1>
 <h3>Welcome and thank you for visiting my data science portfolio! I'm currently an undergraduate student in data science at Arizona State University Barrett's Honors College, where my enthusiasm lies in exploring data to reveal insights and address real-world challenges. During my studies in statistics, machine learning, programming, and data science, I have acquired a strong skill set that forms a strong foundation for engaging in diverse data science projects. Within this porfolio, I'm excited to present some of my previous works.</h3>
 
-<h2>👨‍💻 Data Science Projects:</h2>
+<h2>👩🏻‍💻 Data Science Projects:</h2>
 
 - <b>[Diabetes Analysis](https://github.com/joshmadakor1/Algorithms-Practice)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - Brief Overview: This project involves a comprehensive comparison of diverse machine learning algorithms for the classification of diabetes.
+- <b>[Breast Cancer Analysis](https://github.com/joshmadakor1/Algorithms-Practice)</b>
+  - Brief Overview: This project encompasses an in-depth comparison of a variety of machine learning algorithms designed for the classification of breast cancer.
+- <b>[COVID-19 Impacts on Delhi Students](https://github.com/joshmadakor1/Algorithms-Practice)</b>
+  - Brief Overview: This project delves into the repercussions of the COVID-19 pandemic on students in the Delhi National Capital Region/ Through meticulous data analysis and visualization, the study unveils significant impacts on mental health, education, and daily routines, shedding light on altered sleeping patterns, disrupted fitness routines, and shifts in social media usage.
+- <b>[Exploring Drug Overdose Deaths in Connecticut](https://github.com/joshmadakor1/Algorithms-Practice)</b>
+  - Brief Overview: This project delves into Connecticut's alarming drug overdose crisis. Through visualizations and exploratory analysis of a Kaggle dataset, it identifies key demographics affected and highlights heroin, opioids, and fentanyl as predominant contributors to drug-related fatalities. 
 
 <h2>📺 Popular YouTube Videos</h2>
 
@@ -29,15 +22,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/nikki-la
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
