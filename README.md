@@ -1,5 +1,5 @@
 <h1>Hi, I'm Nikki! <br/><a href="https://www.linkedin.com/in/nikki-la/">Honors Data Science Student @ ASU</a></h1>
-<h3>Welcome and thank you for visiting my data science portfolio! I'm currently an undergraduate student in data science at Arizona State University Barrett's Honors College, where my enthusiasm lies in exploring data to reveal insights and address real-world challenges. During my studies in statistics, machine learning, programming, and data science, I have acquired a strong skill set that forms a strong foundation for engaging in diverse data science projects. Within this porfolio, I'm excited to present some information about myself and my previous works.</h3>
+<h3>Welcome and thank you for visiting my data science portfolio! I'm currently an undergraduate student in data science at Arizona State University Barrett's Honors College, where my enthusiasm lies in exploring data to reveal insights and address real-world challenges. During my studies in statistics, computer information systems, machine learning, programming, and data science, I have acquired a strong skill set that forms a strong foundation for engaging in diverse data science projects. Within this porfolio, I'm excited to present some information about myself and my previous works.</h3>
 
 <h2>👩🏻‍💻 Data Science Projects:</h2>
 
