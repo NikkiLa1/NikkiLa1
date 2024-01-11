@@ -8,7 +8,7 @@
 - <b>[Breast Cancer Analysis](https://github.com/joshmadakor1/Algorithms-Practice)</b>
   - Brief Overview: This project encompasses an in-depth comparison of a variety of machine learning algorithms designed for the classification of breast cancer.
 - <b>[COVID-19 Impacts on Delhi Students](https://github.com/joshmadakor1/Algorithms-Practice)</b>
-  - Brief Overview: This project delves into the repercussions of the COVID-19 pandemic on students in the Delhi National Capital Region/ Through meticulous data analysis and visualization, the study unveils significant impacts on mental health, education, and daily routines, shedding light on altered sleeping patterns, disrupted fitness routines, and shifts in social media usage.
+  - Brief Overview: This study explores the consequences of the COVID-19 pandemic on students within the Delhi National Capital Region. Employing thorough data analysis and visualization, the research reveals effects on mental health, education, and daily routines, illuminating changes in sleep patterns, disruptions in fitness regimens, and shifts in social media habits.
 - <b>[Exploring Drug Overdose Deaths in Connecticut](https://github.com/joshmadakor1/Algorithms-Practice)</b>
   - Brief Overview: This project delves into Connecticut's alarming drug overdose crisis. Through visualizations and exploratory analysis of a Kaggle dataset, it identifies key demographics affected and highlights heroin, opioids, and fentanyl as predominant contributors to drug-related fatalities. 
 
