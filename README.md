@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nikki! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/nikki-la/">Honors Data Science Student @ ASU</a></h1>
+<h1>Hi, I'm Nikki! <br/><a href="https://www.linkedin.com/in/nikki-la/">Honors Data Science Student @ ASU</a></h1>
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
