@@ -1,7 +1,7 @@
 <h1>Hi, I'm Nikki! <br/>
 <a href="https://www.linkedin.com/in/nikki-la/">M.S. Data Science Student @ Vanderbilt University</a></h1>
 
-<h3>Welcome, and thank you for visiting my data science portfolio! I'm currently pursuing my Master of Science in Data Science at Vanderbilt University. My passion lies in uncovering insights from data to solve meaningful, real-world problems—especially in areas like healthcare and fintech 
+<h3>Welcome, and thank you for visiting my data science portfolio! I'm currently pursuing my Master of Science in Data Science at Vanderbilt University. My passion lies in uncovering insights from data to solve meaningful, real-world problems, especially in areas like healthcare and fintech 
 
 With a solid foundation in statistics, programming, machine learning, and database systems, I've been fortunate to work on a range of projects that blend technical rigor with impactful storytelling. This portfolio highlights who I am and showcases some of my favorite projects. Thanks for stopping by!</h3>
 
