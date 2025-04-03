@@ -1,5 +1,9 @@
-<h1>Hi, I'm Nikki! <br/><a href="https://www.linkedin.com/in/nikki-la/">Honors Data Science Student @ ASU</a></h1>
-<h3>Welcome and thank you for visiting my data science portfolio! I'm currently an undergraduate student in data science at Arizona State University Barrett's Honors College, where my enthusiasm lies in exploring data to reveal insights and address real-world challenges. During my studies in statistics, computer information systems, machine learning, programming, and data science, I have acquired a strong skill set that forms a strong foundation for engaging in diverse data science projects. Within this porfolio, I'm excited to present some information about myself and my previous works.</h3>
+<h1>Hi, I'm Nikki! <br/>
+<a href="https://www.linkedin.com/in/nikki-la/">M.S. Data Science Student @ Vanderbilt University</a></h1>
+
+<h3>Welcome, and thank you for visiting my data science portfolio! I'm currently pursuing my Master of Science in Data Science at Vanderbilt University. My passion lies in uncovering insights from data to solve meaningful, real-world problems—especially in areas like healthcare and fintech 
+
+With a solid foundation in statistics, programming, machine learning, and database systems, I've been fortunate to work on a range of projects that blend technical rigor with impactful storytelling. This portfolio highlights who I am and showcases some of my favorite projects. Thanks for stopping by!</h3>
 
 <h2>👩🏻‍💻 Data Science Projects:</h2>
 
